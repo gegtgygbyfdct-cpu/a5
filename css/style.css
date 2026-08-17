@@ -504,16 +504,15 @@ section {
 
 .art-avatar {
     width: 160px;
-    height: 200px;
+    height: 160px;
+    border-radius: 50%;
     background: #FAF8F5;
     border: 1px solid var(--border-gold);
     margin: 0 auto 2rem auto;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: var(--font-heading);
-    font-size: 1.3rem;
-    color: var(--text-muted);
+    overflow: hidden;
 }
 
 .art-avatar img {
@@ -891,4 +890,32 @@ footer {
     margin-bottom: 1.8rem;
     font-size: 1.05rem;
     width: 100%;
+}
+
+.about-row {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr;
+    gap: 4rem;
+    align-items: center;
+    margin-bottom: 4rem;
+}
+
+.about-img-box {
+    border: 1px solid var(--border-gold);
+    padding: 1rem;
+    background: var(--bg-card);
+}
+
+.about-img-box img {
+    width: 100%;
+    height: 380px;
+    object-fit: cover;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .about-row {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
 }
