@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -45,7 +45,7 @@
             </div>
             <div class="hero-visual">
                 <div class="hero-frame">
-                    <img src="https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&q=80&w=800" alt="Luxury Designer Handbag" style="width: 100%; height: 420px; object-fit: cover; display: block;">
+                    <img src="images/hero_bag.jpg" alt="Luxury Designer Handbag" style="width: 100%; height: 420px; object-fit: cover; display: block;">
                 </div>
             </div>
         </div>
@@ -56,7 +56,7 @@
         <div class="container heritage-grid">
             <div class="heritage-visual">
                 <div class="hero-frame" style="padding: 1rem;">
-                    <img src="https://images.unsplash.com/photo-1590579491412-21143c683b56?auto=format&fit=crop&q=80&w=800" alt="Atelier Leather Craftsman Workshop" style="width: 100%; height: 350px; object-fit: cover; display: block;">
+                    <img src="images/workshop.jpg" alt="Atelier Leather Craftsman Workshop" style="width: 100%; height: 350px; object-fit: cover; display: block;">
                 </div>
             </div>
             <div class="heritage-text">
@@ -78,7 +78,7 @@
                 <!-- Tote -->
                 <div class="luxury-card">
                     <div class="coll-img-box">
-                        <img src="https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&q=80&w=800" alt="Signature Leather Tote Bag" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img src="images/tote.jpg" alt="Signature Leather Tote Bag" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <h3 class="coll-title">The Signature Tote</h3>
                     <p>Designed with structured panels, internal pocket sleeves, and custom double-stitch handles for optimal desk-to-dinner utility.</p>
@@ -87,7 +87,7 @@
                 <!-- Crossbody -->
                 <div class="luxury-card">
                     <div class="coll-img-box">
-                        <img src="https://images.unsplash.com/photo-1598532163257-da3ad67f4710?auto=format&fit=crop&q=80&w=800" alt="Classic Leather Crossbody Bag" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img src="images/crossbody.jpg" alt="Classic Leather Crossbody Bag" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <h3 class="coll-title">The Classic Crossbody</h3>
                     <p>Compact profile featuring a gold-plated clasp, adjustable buckle strap, and lined with sustainable silk velvet.</p>
@@ -96,7 +96,7 @@
                 <!-- Duffle -->
                 <div class="luxury-card">
                     <div class="coll-img-box">
-                        <img src="https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=800" alt="Nomad Leather Duffle Travel Bag" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img src="images/duffle.jpg" alt="Nomad Leather Duffle Travel Bag" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <h3 class="coll-title">The Nomad Duffle</h3>
                     <p>A spacious luxury travel companion crafted from thick, water-resistant calfskin leather and reinforced gold studs.</p>
@@ -139,7 +139,7 @@
             </div>
             <div class="craft-visual">
                 <div class="hero-frame" style="padding: 1rem;">
-                    <img src="https://images.unsplash.com/photo-1606293926075-69a00dbfde81?auto=format&fit=crop&q=80&w=800" alt="Beeswax Saddle Stitching Detail" style="width: 100%; height: 400px; object-fit: cover; display: block;">
+                    <img src="images/craft.jpg" alt="Beeswax Saddle Stitching Detail" style="width: 100%; height: 400px; object-fit: cover; display: block;">
                 </div>
             </div>
         </div>
@@ -162,7 +162,7 @@
                 <!-- Product 1 -->
                 <div class="luxury-card">
                     <div class="coll-img-box">
-                        <img src="https://images.unsplash.com/photo-1600857062241-98e5dba7f214?auto=format&fit=crop&q=80&w=800" alt="The Viora Luxury Tote" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img src="images/viora_tote.jpg" alt="The Viora Luxury Tote" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <h3 class="coll-title">The Viora Tote</h3>
                     <p style="font-size: 0.9rem; color: var(--text-muted);">Calfskin, Gold Locks, 38 x 28 x 14 cm</p>
@@ -171,7 +171,7 @@
                 <!-- Product 2 -->
                 <div class="luxury-card">
                     <div class="coll-img-box">
-                        <img src="https://images.unsplash.com/photo-1614179924047-e1bf49e0a0cf?auto=format&fit=crop&q=80&w=800" alt="The Sienna Clutch Bag" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img src="images/sienna_clutch.jpg" alt="The Sienna Clutch Bag" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <h3 class="coll-title">The Sienna Clutch</h3>
                     <p style="font-size: 0.9rem; color: var(--text-muted);">Suede Interior, Gold Chain, 22 x 12 x 5 cm</p>
@@ -180,7 +180,7 @@
                 <!-- Product 3 -->
                 <div class="luxury-card">
                     <div class="coll-img-box">
-                        <img src="https://images.unsplash.com/photo-1605733513597-a8f8d410f286?auto=format&fit=crop&q=80&w=800" alt="The Mercer Luxury Duffle" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                        <img src="images/mercer_duffle.jpg" alt="The Mercer Luxury Duffle" style="width: 100%; height: 100%; object-fit: cover; display: block;">
                     </div>
                     <h3 class="coll-title">The Mercer Duffle</h3>
                     <p style="font-size: 0.9rem; color: var(--text-muted);">Luggage Tag, Canvas Lining, 50 x 30 x 25 cm</p>
@@ -210,7 +210,7 @@
                 <!-- Artisan 1 -->
                 <div class="luxury-card art-card">
                     <div class="art-avatar">
-                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800" alt="Giovanni Viora" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
+                        <img src="images/artisan1.jpg" alt="Giovanni Viora" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
                     </div>
                     <h3 class="art-name">Giovanni Viora</h3>
                     <p class="art-role">Lead Leather Sculptor</p>
@@ -219,7 +219,7 @@
                 <!-- Artisan 2 -->
                 <div class="luxury-card art-card">
                     <div class="art-avatar">
-                        <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=800" alt="Amelia Mercer" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
+                        <img src="images/artisan2.jpg" alt="Amelia Mercer" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
                     </div>
                     <h3 class="art-name">Amelia Mercer</h3>
                     <p class="art-role">Master Saddle Stitcher</p>
@@ -228,7 +228,7 @@
                 <!-- Artisan 3 -->
                 <div class="luxury-card art-card">
                     <div class="art-avatar">
-                        <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=800" alt="Charles Laurent" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
+                        <img src="images/artisan3.jpg" alt="Charles Laurent" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
                     </div>
                     <h3 class="art-name">Charles Laurent</h3>
                     <p class="art-role">Hardware Goldsmith</p>
